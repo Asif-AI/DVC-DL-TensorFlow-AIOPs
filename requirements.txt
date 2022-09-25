@@ -112,7 +112,6 @@ shtab==1.5.5
 six==1.16.0
 smmap==5.0.0
 # Editable Git install with no remote (src==0.0.1)
--e e:\datascience\aiops\dvc-dl-tensorflow-aiops
 tabulate==0.8.10
 tensorboard==2.10.0
 tensorboard-data-server==0.6.1
