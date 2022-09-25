@@ -9,11 +9,10 @@ artifacts:
   TENSORBOARD_ROOT_LOG_DIR:  tensorboard_log_dir
   CALLBACKS_DIR:  Callbacks_dir
 
-  Source_download_path:
+  Source_download_dir:
     - ../ outside_data
     - ../ outside_cat
   
-  local_data_path:
+  local_data_dir:
     - outside_data
     - outside_cat
-    
