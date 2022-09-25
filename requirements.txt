@@ -1,0 +1,8 @@
+dvc
+tensorflow
+matplotlib
+Numpy
+pandas
+tqdm
+PyYAML
+boto3 ## for AWS S3 Bucket
