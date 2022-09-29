@@ -10,8 +10,8 @@ artifacts:
   CALLBACKS_DIR:  Callbacks_dir
 
   Source_download_dir:
-    - ../ outside_data
-    - ../ outside_cat
+    - ../outside_data
+    - ../outside_cat
   
   local_data_dir:
     - outside_data
